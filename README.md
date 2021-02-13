@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @TNodeCode
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-TNodeCode/TNodeCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-Author: Tilo Flasche
+- 👋 Hi, I’m Tilo, a software developer from Frankfurt, Germany
+- 🌱 I’m currently learning: Go
+- 📫 How to reach me:
+-- LinkedIn: https://de.linkedin.com/in/tilo-flasche-328b11187
+-- Xing: https://www.xing.com/profile/Tilo_Flasche
